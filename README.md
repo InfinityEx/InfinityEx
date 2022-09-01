@@ -2,6 +2,7 @@
 
 
 [![InfinityEx's GitHub stats](https://github-readme-stats.vercel.app/api?username=InfinityEx)](https://github.com/InfinityEx/InfinityEx)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InfinityEx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 目前状态：担保公司客户经理；前国企财务专员
 - 🌱 正在学习的语言：Python,C++(Qt)
