@@ -5,7 +5,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=InfinityEx&card_width=420" align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfinityEx&layout=compact&card_width=320" align="center">
 
-<br><br>
+<br><br><br>
 - 🔭 目前状态：担保公司客户经理；前国企财务专员
 - 🌱 正在学习的语言：Python,C++(Qt)
 - 👯 ———————：//
