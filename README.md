@@ -2,8 +2,9 @@
 
 
 <!--[![InfinityEx's GitHub stats]-->
-<img src="https://github-readme-stats.vercel.app/api?username=InfinityEx" width=320 align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfinityEx&layout=compact" width=320 height=100 align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=InfinityEx&card_width=480" align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfinityEx&layout=compact&card_width=200" height=190 align="center">
+
 
 - 🔭 目前状态：担保公司客户经理；前国企财务专员
 - 🌱 正在学习的语言：Python,C++(Qt)
