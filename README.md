@@ -2,8 +2,8 @@
 
 
 <!--[![InfinityEx's GitHub stats]-->
-<img src="https://github-readme-stats-psi-orcin-46.vercel.app/api?username=InfinityEx&card_width=420" align="left">
-<img src="https://github-readme-stats-psi-orcin-46.vercel.app/api/top-langs/?username=InfinityEx&layout=compact&card_width=320" align="center">
+<img src="https://github-readme-stats-sandy-one.vercel.app/api?username=InfinityEx&card_width=420" align="left">
+<img src="https://github-readme-stats-sandy-one.vercel.app/api/top-langs/?username=InfinityEx&layout=compact&card_width=320" align="center">
 
 <br><br><br>
 - 🔭 目前状态：前国企财务专员，担保公司客户经理
