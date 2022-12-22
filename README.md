@@ -6,13 +6,13 @@
 <img src="https://github-readme-stats-cyan-delta.vercel.app/api/top-langs/?username=InfinityEx&layout=compact&card_width=320" align="center">
 
 <br><br><br>
-- 🔭 目前状态：前国企财务专员，担保公司客户经理
-- 🌱 正在学习的语言：Python,C++(Qt)
+- 🔭 Now Status：▇▇Who▇▇I▇▇▇am▇?
+- 🌱 What I learning：Python,Html,CSS,PHP
 - 👯 ———————：//
 - 🤔 ???：▇▇▇▇▇▇▇▇
-- 💬 联系方式（Wechat）：▇▇▇▇▇▇▇▇
-- 📫 毕业院校：▇▇▇▇▇▇▇▇
+- 💬 Wechat：▇▇▇▇▇▇▇▇
+- 📫 Alma Mater：▇▇▇▇▇▇▇▇▇
 - 😄 ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇
-- ⚡ 兴趣爱好：编程、玩游戏
+- ⚡ I like……：▇▇,▇▇▇
 </p>
 <!--**InfinityEx/InfinityEx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
