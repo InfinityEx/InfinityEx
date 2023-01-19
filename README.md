@@ -1,5 +1,5 @@
 ### 关于我 About me ✨👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&pause=1000&color=66CCFF&center=true&vCenter=true&width=600&lines=An+idiot+is+still+struggling+for+meaningless.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=66CCFF&center=true&vCenter=true&width=600&lines=An+idiot+is+still+struggling+for+meaningless.)](https://git.io/typing-svg)
 <!--github-readme-stats.vercel.app-->
 <!--[![InfinityEx's GitHub stats]-->
 <img src="https://github-readme-stats-cyan-delta.vercel.app/api?username=InfinityEx&card_width=420" align="left">
