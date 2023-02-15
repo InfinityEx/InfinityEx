@@ -17,4 +17,7 @@
 <br>
 
 [![Readme Card](https://github-readme-stats-cyan-delta.vercel.app/api/pin/?username=InfinityEx&repo=DLwebsite_HttpResponse_Grabber)](https://github.com/InfinityEx/DLwebsite_HttpResponse_Grabber)
+<!--
+[![Readme Card](https://github-readme-stats-cyan-delta.vercel.app/api/pin/?username=InfinityEx&repo=Dragalia-Dialogue_Splitter)](https://github.com/InfinityEx/Dragalia-Dialogue_Splitter)
+-->
 <!--**InfinityEx/InfinityEx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
