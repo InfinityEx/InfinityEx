@@ -3,7 +3,7 @@
 <!--github-readme-stats.vercel.app-->
 <!--[![InfinityEx's GitHub stats]-->
 <img src="https://github-readme-stats-cyan-delta.vercel.app/api?username=InfinityEx&card_width=420" align="left">
-<img src="https://github-readme-stats-cyan-delta.vercel.app/api/top-langs/?username=InfinityEx&layout=compact&card_width=320&hide=html,css" align="center">
+<img src="https://github-readme-stats-cyan-delta.vercel.app/api/top-langs/?username=InfinityEx&layout=compact&card_width=320&hide=html,css,batchfile" align="center">
 
 <br><br>
 - 🔭 Now Status：▇▇Who▇▇I▇▇▇am▇?
